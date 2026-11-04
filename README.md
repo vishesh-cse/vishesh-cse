@@ -3,15 +3,13 @@
 
 # 👋 Hey, I'm Vishesh Chaudhary
 
-### 💻 B.Tech CSE Student | Aspiring Software Developer | AI Enthusiast
-
-*Turning ideas into code and everyday problems into practical projects.*
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;AI+Enthusiast;Building+PRAGYA;Turning+Ideas+Into+Code" alt="Typing SVG" />
   </a>
 </p>
+
+*Turning ideas into code and everyday problems into practical projects.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-vishesh--cse-181717?style=for-the-badge&logo=github)](https://github.com/vishesh-cse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishesh-chaudhary-7802b942b/)
