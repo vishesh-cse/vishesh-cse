@@ -5,7 +5,7 @@
 
 ### 💻 B.Tech CSE Student | Aspiring Software Developer | AI Enthusiast
 
-Turning ideas into code and everyday problems into practical projects.
+*Turning ideas into code and everyday problems into practical projects.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-vishesh--cse-181717?style=for-the-badge&logo=github)](https://github.com/vishesh-cse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishesh-chaudhary-7802b942b/)
@@ -18,8 +18,8 @@ Turning ideas into code and everyday problems into practical projects.
 
 - 🎓 First-year B.Tech Computer Science student.
 - 🌱 Learning programming, web development and AI.
-- 🔭 Building PRAGYA, a personal Windows voice assistant.
-- 🏫 Developing Campus Smart Assistant.
+- 🔭 Building **PRAGYA**, a personal Windows voice assistant.
+- 🏫 Developing **Campus Smart Assistant**.
 - 🌐 Creating and improving my personal developer website.
 - 🎯 Interested in practical software development and problem-solving.
 - ⚡ I believe in learning by building.
@@ -48,45 +48,41 @@ Turning ideas into code and everyday problems into practical projects.
 
 ## 🚀 Featured Projects
 
-### 1. PRAGYA | Personal Windows Voice Assistant
+### 🤖 1. PRAGYA | Personal Windows Voice Assistant
 
-A personal assistant exploring voice interaction, desktop automation and local AI.
+A personal Windows assistant exploring voice interaction, desktop automation and local AI.
 
 **Technologies:** Python, PySide6, Ollama
 
-### 2. Campus Smart Assistant
+### 🏫 2. Campus Smart Assistant
 
-A student-focused project exploring campus tools, timetable management and attendance tracking.
+A student-focused project designed to explore useful campus tools, timetable management and attendance tracking.
 
 **Focus:** Student productivity and campus utilities.
 
-### 3. Personal Portfolio Website
+### 🌐 3. Personal Portfolio Website
 
 My personal website showcasing my developer profile, skills, projects and achievements.
 
 **Technologies:** HTML, CSS, JavaScript
 
+🔗 [Visit My Portfolio](https://vishesh-cse.github.io/vishesh-portfolio/)
+
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishesh-cse&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh-cse&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh-cse&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh-cse&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Contribution Streak" />
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vishesh-cse&theme=tokyonight&no-frame=true&no-bg=true&column=4" width="100%" />
+[![GitHub Repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/vishesh-cse?tab=repositories)
+
+[![GitHub Contributions](https://img.shields.io/badge/View-My_Contributions-238636?style=for-the-badge&logo=github)](https://github.com/vishesh-cse)
 
 </div>
 
@@ -110,14 +106,26 @@ My personal website showcasing my developer profile, skills, projects and achiev
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-## 👀 Thanks for visiting my profile!
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/vishesh-cse)
 
-**Always Learning. Always Building.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishesh-chaudhary-7802b942b/)
 
-⭐ If you find my projects interesting, feel free to explore and connect!
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishesh-cse.github.io/vishesh-portfolio/)
 
-<img src="https://komarev.com/ghpvc/?username=vishesh-cse&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Thanks for visiting my profile!
+
+**Always Learning. Always Building.** 🚀
+
+<img src="https://komarev.com/ghpvc/?username=vishesh-cse&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
