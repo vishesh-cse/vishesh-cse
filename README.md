@@ -42,11 +42,7 @@
 ## 📊 Developer Dashboard
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishesh-cse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh-cse&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
+  <img src="https://raw.githubusercontent.com/vishesh-cse/vishesh-cse/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 ### Tools & Technologies
